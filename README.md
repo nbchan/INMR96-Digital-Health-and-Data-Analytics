@@ -6,15 +6,15 @@ Materials for the module INMR96 Digital Health and Data Analytics, Spring Term 2
 ## Links and Resources
 
 Important links
-* [MIMIC-III Official Documentation](https://mimic.physionet.org/about/mimic/)
+* [MIMIC-III Official Documentation](https://mimic.mit.edu/docs/iii/)
 * [Google Bigquery](https://console.cloud.google.com/bigquery)
 * [Google Colab](https://colab.research.google.com/)
 
 Tutorials and Instructions
-* [Requesting MIMIC-III access](https://mimic.physionet.org/gettingstarted/access/)
-* [Using MIMIC-III in BigQuery](https://mimic.physionet.org/gettingstarted/cloud/)
+* [Requesting MIMIC-III access](https://mimic.mit.edu/docs/gettingstarted/)
+* [Using MIMIC-III in BigQuery](https://mimic.mit.edu/docs/gettingstarted/cloud/)
 * [Linking Bigquery with Colab](https://colab.research.google.com/notebooks/bigquery.ipynb#scrollTo=SeTJb51SKs_W)
-* [Retrieving MIMIC-III data on BigQuery with SQL](https://mimic.physionet.org/tutorials/intro-to-mimic-iii-bq/)
+* [Retrieving MIMIC-III data on BigQuery with SQL](https://mimic.mit.edu/docs/iii/tutorials/intro-to-mimic-iii-bq/)
 
 Online Resources on Programming 
 * [SQL Syntax](https://www.w3schools.com/sql/default.asp)
